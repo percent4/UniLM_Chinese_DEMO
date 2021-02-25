@@ -1,0 +1,6 @@
+tensorflow==2.4.0
+numpy==1.19.5
+torch==1.7.1
+transformers==3.0.2
+tqdm==4.56.0
+apex==0.9.10dev

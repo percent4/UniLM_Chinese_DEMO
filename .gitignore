@@ -1,0 +1,6 @@
+.idea
+data/weibo/train_label.txt
+data/weibo/train_text.txt
+data/weibo/read_file_2_csv.py
+data/weibo/train_data.json
+data/weibo/test_data.json
