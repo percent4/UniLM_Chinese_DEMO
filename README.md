@@ -4,10 +4,16 @@
 
 - Jclian91
 
+### 全量微博数据
+
+训练数据: https://drive.google.com/file/d/1ggv5WdD6NAr3SOn9IclVR080xW8o8lyV/view?usp=drive_link
+测试数据: https://drive.google.com/file/d/1L9QJMSNuoivc5QfqJDPf1H1iLRJi-6Xz/view?usp=drive_link
+
+
 ### 运行
 
 0. 下载模型（torch版本）：https://pan.baidu.com/s/1DHJGOFJ5cce5N5g4aBDiMQ，提取码：etwf
-1. 模型训练：（数据格式参考: ./data/weibo/train_data.json，训练机器为GTX3090）
+1. 模型训练：（数据格式参考: ./data/weibo/predict_data.json，训练机器为GTX3090）
 
 ```
 sh run_seq2seq.sh
